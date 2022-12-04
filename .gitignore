@@ -1,3 +1,11 @@
 .vscode
-**/__pycache__
+aoc_placeholder.*
+
+# Python
+__pycache__
 .pytest_cache
+
+# Rust
+/target
+/Cargo.lock
+/src/rust/main.rs
